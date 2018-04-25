@@ -173,3 +173,4 @@ This topic might feel a bit esoteric, but it's critical to understanding how ide
 ## Resources
 - MDN
   + [Functions — Name conflicts](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Name_conflicts)
+<p data-visibility='hidden'>PHRG Scope chain</p>

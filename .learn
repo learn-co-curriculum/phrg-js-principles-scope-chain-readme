@@ -11,3 +11,5 @@ languages:
   - javascript
 resources:
   - 1
+
+parent_template: git@github.com:learn-co-curriculum/js-principles-scope-chain-readme.git
